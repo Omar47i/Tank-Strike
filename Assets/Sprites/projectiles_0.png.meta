@@ -1,0 +1,1154 @@
+fileFormatVersion: 2
+guid: aaebd2914fc587d4092a81d8d465ce72
+timeCreated: 1455377619
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: projectiles_0_0
+    21300002: projectiles_0_1
+    21300004: projectiles_0_2
+    21300006: projectiles_0_3
+    21300008: projectiles_0_4
+    21300010: projectiles_0_5
+    21300012: projectiles_0_6
+    21300014: projectiles_0_7
+    21300016: projectiles_0_8
+    21300018: projectiles_0_9
+    21300020: projectiles_0_10
+    21300022: projectiles_0_11
+    21300024: projectiles_0_12
+    21300026: projectiles_0_13
+    21300028: projectiles_0_14
+    21300030: projectiles_0_15
+    21300032: projectiles_0_16
+    21300034: projectiles_0_17
+    21300036: projectiles_0_18
+    21300038: projectiles_0_19
+    21300040: projectiles_0_20
+    21300042: projectiles_0_21
+    21300044: projectiles_0_22
+    21300046: projectiles_0_23
+    21300048: projectiles_0_24
+    21300050: projectiles_0_25
+    21300052: projectiles_0_26
+    21300054: projectiles_0_27
+    21300056: projectiles_0_28
+    21300058: projectiles_0_29
+    21300060: projectiles_0_30
+    21300062: projectiles_0_31
+    21300064: projectiles_0_32
+    21300066: projectiles_0_33
+    21300068: projectiles_0_34
+    21300070: projectiles_0_35
+    21300072: projectiles_0_36
+    21300074: projectiles_0_37
+    21300076: projectiles_0_38
+    21300078: projectiles_0_39
+    21300080: projectiles_0_40
+    21300082: projectiles_0_41
+    21300084: projectiles_0_42
+    21300086: projectiles_0_43
+    21300088: projectiles_0_44
+    21300090: projectiles_0_45
+    21300092: projectiles_0_46
+    21300094: projectiles_0_47
+    21300096: projectiles_0_48
+    21300098: projectiles_0_49
+    21300100: projectiles_0_50
+    21300102: projectiles_0_51
+    21300104: projectiles_0_52
+    21300106: projectiles_0_53
+    21300108: projectiles_0_54
+    21300110: projectiles_0_55
+    21300112: projectiles_0_56
+    21300114: projectiles_0_57
+    21300116: projectiles_0_58
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: projectiles_0_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 362
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 28}
+        - {x: -28, y: 15}
+        - {x: -28, y: -9}
+        - {x: -17, y: -28}
+        - {x: 7, y: -28}
+        - {x: 28, y: -6}
+        - {x: 28, y: 3}
+        - {x: 8, y: 28}
+    - name: projectiles_0_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 360
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 30}
+        - {x: -30, y: 15}
+        - {x: -30, y: -7}
+        - {x: -14, y: -30}
+        - {x: 12, y: -30}
+        - {x: 30, y: -10}
+        - {x: 30, y: 16}
+        - {x: 10, y: 30}
+    - name: projectiles_0_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 32}
+        - {x: -32, y: 13}
+        - {x: -32, y: -7}
+        - {x: -13, y: -32}
+        - {x: 8, y: -32}
+        - {x: 32, y: -14}
+        - {x: 32, y: 8}
+        - {x: 14, y: 32}
+    - name: projectiles_0_3
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 356
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 34}
+        - {x: -34, y: 12}
+        - {x: -34, y: -5}
+        - {x: -33, y: -6}
+        - {x: -14, y: -34}
+        - {x: 10, y: -34}
+        - {x: 34, y: -17}
+        - {x: 34, y: 12}
+        - {x: 7, y: 34}
+    - name: projectiles_0_4
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 354
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: -18}
+        - {x: -19, y: -36}
+        - {x: 10, y: -36}
+        - {x: 36, y: -16}
+        - {x: 36, y: 9}
+        - {x: 15, y: 36}
+        - {x: -8, y: 36}
+        - {x: -34, y: 20}
+        - {x: -36, y: 16}
+    - name: projectiles_0_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 352
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 38}
+        - {x: -37, y: 8}
+        - {x: -38, y: 7}
+        - {x: -38, y: -10}
+        - {x: -8, y: -37}
+        - {x: -8, y: -38}
+        - {x: 11, y: -38}
+        - {x: 38, y: -7}
+        - {x: 38, y: 18}
+        - {x: 9, y: 38}
+    - name: projectiles_0_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 269
+        width: 78
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -27.5}
+        - {x: -26, y: -39.5}
+        - {x: 14, y: -39.5}
+        - {x: 39, y: -21.5}
+        - {x: 39, y: 17.5}
+        - {x: 37, y: 22.5}
+        - {x: 9, y: 39.5}
+        - {x: -36, y: 39.5}
+        - {x: -39, y: 29.5}
+    - name: projectiles_0_7
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 269
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.5, y: -28.5}
+        - {x: -26.5, y: -39.5}
+        - {x: 14.5, y: -39.5}
+        - {x: 39.5, y: -21.5}
+        - {x: 39.5, y: 17.5}
+        - {x: 37.5, y: 22.5}
+        - {x: 9.5, y: 39.5}
+        - {x: -36.5, y: 39.5}
+        - {x: -39.5, y: 31.5}
+    - name: projectiles_0_8
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 316
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 300
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 20}
+        - {x: -30.5, y: 18}
+        - {x: -30.5, y: -7}
+        - {x: -11.5, y: -20}
+        - {x: 30.5, y: -20}
+        - {x: 30.5, y: 20}
+      - - {x: -30.5, y: 20}
+        - {x: -30.5, y: 15}
+        - {x: -28.5, y: 15}
+        - {x: -24.5, y: 19}
+        - {x: -24.5, y: 20}
+    - name: projectiles_0_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 300
+        width: 78
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -17}
+        - {x: -30, y: -20}
+        - {x: 37, y: -20}
+        - {x: 39, y: -19}
+        - {x: 39, y: 16}
+        - {x: 37, y: 20}
+        - {x: -25, y: 20}
+        - {x: -39, y: 16}
+    - name: projectiles_0_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 295
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_12
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 300
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 20}
+        - {x: -31.5, y: 13}
+        - {x: -31.5, y: -20}
+        - {x: 31.5, y: -20}
+        - {x: 31.5, y: 20}
+    - name: projectiles_0_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 300
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 20}
+        - {x: -30.5, y: 17}
+        - {x: -30.5, y: -7}
+        - {x: -6.5, y: -20}
+        - {x: 28.5, y: -20}
+        - {x: 30.5, y: -19}
+        - {x: 30.5, y: 20}
+    - name: projectiles_0_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 322
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_15
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 298
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_16
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 219
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 20}
+        - {x: -31, y: 7}
+        - {x: -31, y: -9}
+        - {x: -10, y: -20}
+        - {x: 31, y: -20}
+        - {x: 31, y: 20}
+    - name: projectiles_0_17
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 219
+        width: 63
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: -18}
+        - {x: -22.5, y: -20}
+        - {x: 26.5, y: -20}
+        - {x: 31.5, y: -17}
+        - {x: 31.5, y: 20}
+        - {x: -9.5, y: 20}
+        - {x: -31.5, y: 12}
+        - {x: -31.5, y: -11}
+    - name: projectiles_0_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 221
+        width: 61
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 17.5}
+        - {x: -30.5, y: 15.5}
+        - {x: -30.5, y: -6.5}
+        - {x: -8.5, y: -17.5}
+        - {x: 23.5, y: -17.5}
+        - {x: 30.5, y: -14.5}
+        - {x: 30.5, y: 16.5}
+        - {x: 28.5, y: 17.5}
+    - name: projectiles_0_19
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 221
+        width: 62
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17.5}
+        - {x: -31, y: 12.5}
+        - {x: -31, y: -13.5}
+        - {x: -22, y: -17.5}
+        - {x: 21, y: -17.5}
+        - {x: 31, y: -8.5}
+        - {x: 31, y: 15.5}
+        - {x: 29, y: 17.5}
+    - name: projectiles_0_20
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 221
+        width: 63
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 17.5}
+        - {x: -31.5, y: 3.5}
+        - {x: -31.5, y: -10.5}
+        - {x: -25.5, y: -17.5}
+        - {x: 26.5, y: -17.5}
+        - {x: 31.5, y: -5.5}
+        - {x: 31.5, y: 17.5}
+    - name: projectiles_0_21
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 228
+        width: 61
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_22
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 248
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 224
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 171
+        width: 62
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 169
+        width: 63
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 155
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 28}
+        - {x: -30.5, y: 11}
+        - {x: -30.5, y: -11}
+        - {x: -21.5, y: -28}
+        - {x: 30.5, y: -28}
+        - {x: 30.5, y: 27}
+        - {x: 28.5, y: 28}
+    - name: projectiles_0_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 155
+        width: 62
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 28}
+        - {x: -31, y: 8}
+        - {x: -31, y: -14}
+        - {x: -16, y: -28}
+        - {x: 31, y: -28}
+        - {x: 31, y: 28}
+    - name: projectiles_0_28
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 155
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 28}
+        - {x: -31.5, y: 8}
+        - {x: -31.5, y: -13}
+        - {x: -30.5, y: -17}
+        - {x: -23.5, y: -17}
+        - {x: -25.5, y: -24}
+        - {x: -14.5, y: -28}
+        - {x: 31.5, y: -28}
+        - {x: 31.5, y: 23}
+        - {x: 29.5, y: 28}
+    - name: projectiles_0_29
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 165
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 23}
+        - {x: -26.5, y: 7}
+        - {x: -10.5, y: -23}
+        - {x: 25.5, y: -23}
+        - {x: 26.5, y: -22}
+        - {x: 26.5, y: 13}
+        - {x: 22.5, y: 23}
+    - name: projectiles_0_30
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 165
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 21.5}
+        - {x: -26.5, y: -12.5}
+        - {x: -14.5, y: -21.5}
+        - {x: 26.5, y: -21.5}
+        - {x: 26.5, y: 11.5}
+        - {x: 13.5, y: 21.5}
+    - name: projectiles_0_31
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 90
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 12.5}
+        - {x: 28.5, y: 19.5}
+        - {x: 19.5, y: 28.5}
+        - {x: 12.5, y: 31.5}
+        - {x: -12.5, y: 31.5}
+        - {x: -19.5, y: 28.5}
+        - {x: -28.5, y: 19.5}
+        - {x: -31.5, y: 12.5}
+        - {x: -31.5, y: -12.5}
+        - {x: -28.5, y: -19.5}
+        - {x: -19.5, y: -28.5}
+        - {x: -12.5, y: -31.5}
+        - {x: 12.5, y: -31.5}
+        - {x: 19.5, y: -28.5}
+        - {x: 28.5, y: -19.5}
+        - {x: 31.5, y: -12.5}
+    - name: projectiles_0_32
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 108
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 20}
+        - {x: -26.5, y: 5}
+        - {x: -13.5, y: -14}
+        - {x: -3.5, y: -20}
+        - {x: 20.5, y: -20}
+        - {x: 26.5, y: -16}
+        - {x: 26.5, y: 13}
+        - {x: 24.5, y: 20}
+    - name: projectiles_0_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 19.5}
+        - {x: -24.5, y: 17.5}
+        - {x: -26.5, y: 13.5}
+        - {x: -26.5, y: -5.5}
+        - {x: -4.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 18.5}
+        - {x: 22.5, y: 19.5}
+    - name: projectiles_0_34
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 19.5}
+        - {x: -26.5, y: 13.5}
+        - {x: -26.5, y: -5.5}
+        - {x: -6.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 14.5}
+        - {x: 23.5, y: 19.5}
+    - name: projectiles_0_35
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19.5}
+        - {x: -17.5, y: 15.5}
+        - {x: -26.5, y: -5.5}
+        - {x: -26.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 26.5, y: -12.5}
+        - {x: 26.5, y: 14.5}
+        - {x: 22.5, y: 19.5}
+    - name: projectiles_0_36
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19.5}
+        - {x: -26.5, y: -3.5}
+        - {x: -26.5, y: -15.5}
+        - {x: -11.5, y: -19.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 26.5, y: -14.5}
+        - {x: 26.5, y: 13.5}
+        - {x: 19.5, y: 19.5}
+    - name: projectiles_0_37
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 19.5}
+        - {x: -26.5, y: 7.5}
+        - {x: -26.5, y: -4.5}
+        - {x: -9.5, y: -19.5}
+        - {x: 22.5, y: -19.5}
+        - {x: 26.5, y: -18.5}
+        - {x: 26.5, y: 16.5}
+        - {x: 21.5, y: 19.5}
+    - name: projectiles_0_38
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 108
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 19.5}
+        - {x: -26.5, y: 17.5}
+        - {x: -26.5, y: -2.5}
+        - {x: -15.5, y: -16.5}
+        - {x: -7.5, y: -19.5}
+        - {x: 26.5, y: -19.5}
+        - {x: 26.5, y: 15.5}
+        - {x: 24.5, y: 19.5}
+    - name: projectiles_0_39
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 112
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_40
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 133
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: projectiles_0_41
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 20}
+        - {x: -21, y: 14}
+        - {x: -21, y: -18}
+        - {x: -20, y: -20}
+        - {x: 21, y: -20}
+        - {x: 21, y: 18}
+        - {x: 15, y: 20}
+    - name: projectiles_0_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 44
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 21.5}
+        - {x: -21, y: 13.5}
+        - {x: -21, y: -14.5}
+        - {x: -10, y: -21.5}
+        - {x: 12, y: -21.5}
+        - {x: 21, y: -15.5}
+        - {x: 21, y: 9.5}
+        - {x: 13, y: 21.5}
+    - name: projectiles_0_43
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 44
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 21}
+        - {x: -21.5, y: 15}
+        - {x: -21.5, y: -14}
+        - {x: -18.5, y: -21}
+        - {x: 14.5, y: -21}
+        - {x: 21.5, y: -17}
+        - {x: 21.5, y: 14}
+        - {x: 18.5, y: 21}
+    - name: projectiles_0_44
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 47
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 21}
+        - {x: -21.5, y: 14}
+        - {x: -21.5, y: -21}
+        - {x: 17.5, y: -21}
+        - {x: 21.5, y: -19}
+        - {x: 21.5, y: 13}
+        - {x: 11.5, y: 21}
+    - name: projectiles_0_45
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_46
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_48
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 49
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 20}
+        - {x: -20.5, y: -20}
+        - {x: 12.5, y: -20}
+        - {x: 20.5, y: -17}
+        - {x: 20.5, y: 20}
+    - name: projectiles_0_51
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 49
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 13.5}
+        - {x: -19.5, y: -18.5}
+        - {x: -18.5, y: -19.5}
+        - {x: 13.5, y: -19.5}
+        - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: 11.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 12.5, y: -19.5}
+        - {x: 19.5, y: -12.5}
+        - {x: 19.5, y: 14.5}
+        - {x: 13.5, y: 19.5}
+    - name: projectiles_0_53
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 20.5}
+        - {x: -20, y: 16.5}
+        - {x: -20, y: -20.5}
+        - {x: 13, y: -20.5}
+        - {x: 20, y: -15.5}
+        - {x: 20, y: 15.5}
+        - {x: 18, y: 20.5}
+    - name: projectiles_0_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 3
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 19.5}
+        - {x: -21, y: 13.5}
+        - {x: -21, y: -19.5}
+        - {x: 16, y: -19.5}
+        - {x: 21, y: -16.5}
+        - {x: 21, y: 17.5}
+        - {x: 16, y: 19.5}
+    - name: projectiles_0_55
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 19.5}
+        - {x: -19.5, y: 14.5}
+        - {x: -19.5, y: -19.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 19.5, y: 15.5}
+        - {x: 12.5, y: 19.5}
+    - name: projectiles_0_56
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -13.5, y: -19.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 19.5, y: -15.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 18.5, y: 19.5}
+    - name: projectiles_0_57
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.5, y: 19.5}
+        - {x: -19.5, y: 18.5}
+        - {x: -19.5, y: -16.5}
+        - {x: -13.5, y: -19.5}
+        - {x: 14.5, y: -19.5}
+        - {x: 19.5, y: -15.5}
+        - {x: 19.5, y: 17.5}
+        - {x: 18.5, y: 19.5}
+    - name: projectiles_0_58
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 4
+        width: 247
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -116.5, y: 19.5}
+        - {x: -123.5, y: 14.5}
+        - {x: -123.5, y: -12.5}
+        - {x: -119.5, y: -19.5}
+        - {x: 123.5, y: -19.5}
+        - {x: 123.5, y: 8.5}
+        - {x: 41.5, y: 19.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
